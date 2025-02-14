@@ -49,5 +49,11 @@ print(generate_texts)
 ## References
 If you use our work, please cite to us:
 ```
-
+@inproceedings{mquang2024zero,
+  title={Zero-cost Transition to Multi-document Processing in Summarization with Multi-Channel Attention},
+  author={Nguyen, Minh-Quang and Can, Duy-Cat and Le, Hoang-Quynh},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={406--422},
+  year={2024}
+}
 ```
